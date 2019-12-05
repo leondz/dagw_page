@@ -43,5 +43,5 @@ For info about joining the project, contact Leon Strømberg-Derczynski - `ld@itu
 
 ### Supporters:
 
-Bolette Sandford Pedersen, KU / Center for Sprogteknologi
-Jørg Asmussen, Det Danske Sprog- og Litteraturselskab
+* Bolette Sandford Pedersen, KU / Center for Sprogteknologi
+* Jørg Asmussen, Det Danske Sprog- og Litteraturselskab
