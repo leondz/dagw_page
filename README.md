@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Welcome to the Danish Gigaword project
 
-You can use the [editor on GitHub](https://github.com/leondz/dagw_page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It’s hard to develop good Danish resources when no large corpus is readily available. To address this, we're building a gigaword corpus with over a billion words (10^9). This is the homepage for the project. The overriding goals are to create a dataset that is 1. representative; 2. accessible; 3. a suitable “fixed point” for Danish NLP.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Licensing
+To make the corpus accessible, all parts of the corpus must be licensed openly, for free distribution. An example license is something like Creative Commons general license (CC0), CC-BY, or CC-NC.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Breadth
+Danish Gigaword should cover variation along a variety of dimensions, including:
+* Time of authorship;
+* Speech situation;
+* Modality;
+* Domain;
+* Register;
+* Age of utterer;
+* Dialect of utterer;
+* Socioeconomic status of utterer.
+This is an intentional strong departure from early editions of English Gigaword that focused on Newswire; criterion (1) of the corpus, representativity, requires that one go beyond newswire. This is mandatory if the corpus is to cover enough words and language uses to be general-purpose.
 
-```markdown
-Syntax highlighted code block
+### Timeline
+We anticipate an initial release of the corpus in the first half of 2020.
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
+For info about joining the project, contact Leon Strømberg-Derczynski - `ld@itu.dk`
 
-- Bulleted
-- List
+### Members:
+* Leon Strømberg-Derczynski, ITU (lead)
+* Rebekah Baglini, AU
+* Morten H. Christiansen, Cornell / AU
+* Manuel Ciosici, ITU
+* Jacob Aarup Dalsgaard, AU
+* Riccardo Fusaroli, AU
+* Peter Juel Henrichsen, Dansk Sprognævn
+* Rasmus Hvingelby, Alexandra Instituttet
+* Andreas Kirkedal, ITU / Interactions LLC
+* Alex Speed Kjeldsen, KU
+* Claus Ladefoged, TV2 Regionerne
+* Finn Årup Nielsen, DTU
+* Malte Lau Petersen, AU
+* Jonathan Hvithamar Rystrøm, AU
+* Daniel Varab, ITU
 
-1. Numbered
-2. List
+### Supporters:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leondz/dagw_page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Bolette Sandford Pedersen, KU / Center for Sprogteknologi
+Jørg Asmussen, Det Danske Sprog- og Litteraturselskab
