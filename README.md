@@ -1,6 +1,4 @@
-## Welcome to the Danish Gigaword project
-
-It’s hard to develop good Danish resources when no large corpus is readily available. To address this, we're building a gigaword corpus with over a billion words (10^9). This is the homepage for the project. The overriding goals are to create a dataset that is 1. representative; 2. accessible; 3. a suitable “fixed point” for Danish NLP.
+It’s hard to develop good tools for Danish NLP when no large and wide-coverage corpus is readily available. To address this, we're building a gigaword corpus with over a billion words (10^9). This is the homepage for the project. The overriding goals are to create a dataset that is 1. representative; 2. accessible; 3. a suitable “fixed point” for Danish NLP.
 
 ### Licensing
 To make the corpus accessible, all parts of the corpus must be licensed openly, for free distribution. An example license is something like Creative Commons general license (CC0), CC-BY, or CC-NC.
