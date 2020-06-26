@@ -38,6 +38,7 @@ For info about joining the project, contact Leon Strømberg-Derczynski - `ld@itu
 * Alex Speed Kjeldsen, KU
 * Claus Ladefoged, TV2 Regionerne
 * Finn Årup Nielsen, DTU
+* Amalie Brogaard Pauli, Alexandra Instituttet
 * Malte Lau Petersen, AU
 * Jonathan Hvithamar Rystrøm, AU
 * Daniel Varab, ITU / Novo Nordisk
