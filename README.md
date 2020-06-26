@@ -33,7 +33,7 @@ For info about joining the project, contact Leon Strømberg-Derczynski - `ld@itu
 * Jacob Aarup Dalsgaard, AU
 * Riccardo Fusaroli, AU
 * Peter Juel Henrichsen, Dansk Sprognævn
-* Rasmus Hvingelby, Alexandra Instituttet
+* Rasmus Hvingelby, Fraunhofer Institute
 * Andreas Kirkedal, ITU / Interactions LLC
 * Alex Speed Kjeldsen, KU
 * Claus Ladefoged, TV2 Regionerne
