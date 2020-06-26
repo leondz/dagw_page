@@ -29,7 +29,7 @@ For info about joining the project, contact Leon Strømberg-Derczynski - `ld@itu
 * Leon Strømberg-Derczynski, ITU (lead)
 * Rebekah Baglini, AU
 * Morten H. Christiansen, Cornell / AU
-* Manuel Ciosici, ITU
+* Manuel Ciosici, ITU / ISI, University of Southern California
 * Jacob Aarup Dalsgaard, AU
 * Riccardo Fusaroli, AU
 * Peter Juel Henrichsen, Dansk Sprognævn
