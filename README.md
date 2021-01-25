@@ -20,7 +20,7 @@ Danish Gigaword should cover variation along a variety of dimensions, including:
 This is an intentionally strong departure from early editions of English Gigaword that focused on Newswire; criterion (1) of the corpus, representativity, requires that one go beyond newswire. This is mandatory if the corpus is to cover enough words and language uses to be general-purpose.
 
 ### Timeline
-We anticipate an initial release of the corpus in the first half of 2020.
+We anticipate an initial release of the corpus in early 2021.
 
 ### Contact
 For info about joining the project, contact Leon Strømberg-Derczynski - `ld@itu.dk`
